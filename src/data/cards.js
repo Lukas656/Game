@@ -137,7 +137,7 @@ const Cards = [
   ,
   {
     id: 10,
-    url: "",
+    url: "https://i.ibb.co/S7fbq9X/homelander-raf-grassetti-jpgp.jpg",
     alt: "Person 10",
     titulo: "Homelander",
     href: "/homelander",
@@ -153,7 +153,7 @@ const Cards = [
   ,
   {
     id: 11,
-    url: "",
+    url: "https://i.ibb.co/9Gsyx9F/mortal-kombat-1-omni-man.webp",
     alt: "Person 11",
     titulo: "Omini Man",
     href: "/ominiman",
@@ -231,8 +231,173 @@ const Cards = [
       "Durabilidade Sobrenatural: Sua pele é incrivelmente resistente a danos físicos e magias, tornando-o quase invulnerável a ataques convencionais.",
       "Longevidade: Como resultado de seus poderes mágicos, Adão Negro é imortal e não envelhece, mantendo sua vitalidade e força ao longo dos séculos."
     ]
-  }
-  ,
+  },
+  {
+    id: 16,
+    url: "https://i.ibb.co/tsQyFsZ/Goku-in-super-saiyan.png",
+    alt: "Person 16",
+    titulo: "Goku",
+    href: "/goku",
+    descricao: "Goku é o protagonista da famosa série de anime e mangá Dragon Ball. Ele é conhecido por sua determinação inabalável, sua sede constante de desafios e sua incrível força de vontade. Ao longo de suas aventuras, Goku se tornou um dos guerreiros mais poderosos do universo, enfrentando inúmeros inimigos e desafios para proteger seus amigos e o mundo em que vive.",
+    habilidades: [
+      "Superforça: Goku possui uma força sobre-humana incrível, capaz de mover montanhas e enfrentar adversários formidáveis em combate.",
+      "Velocidade Sobre-Humana: Ele é capaz de se mover em velocidades incríveis, tornando-se praticamente indetectável para o olho humano comum.",
+      "Voo: Goku pode voar livremente pelo ar, permitindo-lhe viajar grandes distâncias rapidamente e enfrentar seus inimigos de cima.",
+      "Ki Manipulation: Ele é um mestre na manipulação de ki, uma energia espiritual que pode ser canalizada para aumentar sua força, velocidade e habilidades de combate.",
+      "Transformações: Goku pode transformar-se em diferentes formas, cada uma aumentando drasticamente suas habilidades e poder de luta. Sua forma mais famosa é a de Super Saiyajin, onde seu cabelo dourado e seus olhos verdes denotam seu aumento de poder.",
+      "Técnicas de Combate: Ele é hábil em uma variedade de técnicas de combate, incluindo o Kamehameha, uma poderosa onda de energia, e o Genki Dama, uma esfera de energia concentrada formada a partir do ki de seres vivos ao seu redor."
+    ]
+  },
+  {
+    id: 17,
+    url: "https://i.ibb.co/qN2bW9G/Rozace-man-mid-30s-high-quality-4k-hyper-realistic-dark-hair-st-b8bd22f7-a9ff-4725-bf4c-905e071cd506.png",
+    alt: "Person 17",
+    titulo: "Bruxo",
+    href: "/bruxo",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 18,
+    url: "https://i.ibb.co/x1bJTr0/nibahi-ancoent-warrior-hulk-6b896cb4-d97c-4c0c-8cb1-3144a77b90da.png",
+    alt: "Person 18",
+    titulo: "Hulk Ultimate",
+    href: "/hulk",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 19,
+    url: "https://i.ibb.co/qFGF6FW/lobo.png",
+    alt: "Person 19",
+    titulo: "Lobo Morte",
+    href: "/lobomorte",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 20,
+    url: "https://i.ibb.co/wYZwZL3/dm-An-evil-wizard-floating-in-the-center-of-a-dark-arena-castin-02f56708-cb8f-4b80-977e-0aa5c3839351.png",
+    alt: "Person 20",
+    titulo: "Mago",
+    href: "/mago",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 21,
+    url: "https://i.ibb.co/vdd7cSZ/Imagem-do-Whats-App-de-2023-02-08-s-01-00-55.jpg",
+    alt: "Person 21",
+    titulo: "Mulher Dragão",
+    href: "/mulherdragao",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 22,
+    url: "https://i.ibb.co/NFGnxXJ/Wonder-Woman-Injustice-Gods-Among-Us-wonder-woman-34505024-450-522.png",
+    alt: "Person 22",
+    titulo: "Mulher Maravilha",
+    href: "/mulhermaravilha",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 23,
+    url: "https://i.ibb.co/9n4rP5k/tartaruga-Ninja.png",
+    alt: "Person 23",
+    titulo: "Rafa Ultimate",
+    href: "/rafa",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 24,
+    url: "https://i.ibb.co/MGWcfMT/rei.png",
+    alt: "Person 24",
+    titulo: "King",
+    href: "/king",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 25,
+    url: "https://i.ibb.co/fCsf9dS/Ryu.png",
+    alt: "Person 25",
+    titulo: "Ryu",
+    href: "/ryu",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 26,
+    url: "https://i.ibb.co/vjtLVBQ/ken.png",
+    alt: "Person 26",
+    titulo: "ken",
+    href: "/ken",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 27,
+    url: "https://i.ibb.co/Y02TW62/nego.png",
+    alt: "Person 27",
+    titulo: "Soldado",
+    href: "/soldado",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 28,
+    url: "https://i.ibb.co/3Bd0NZ4/subZero.png",
+    alt: "Person 28",
+    titulo: "Sub-Zero",
+    href: "/subzero",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id:  29,
+    url: "https://i.ibb.co/VJdkHxD/thanos-ultimate.png",
+    alt: "Person 29",
+    titulo: "Thanos Ultimate",
+    href: "/",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 30,
+    url: "https://i.ibb.co/8722f1T/Green-Arrow-injustice.png",
+    alt: "Person 30",
+    titulo: "Arqueiro Verde",
+    href: "/arqueiroverde",
+    descricao: "",
+    habilidades: [
+    ]
+  },
+  {
+    id: 31,
+    url: "https://i.ibb.co/bQLLBW9/Injustice-Deathstroke-Insurgancy.png",
+    alt: "Person 30",
+    titulo: "Exterminador",
+    href: "/exterminador",
+    descricao: "",
+    habilidades: [
+    ]
+  },
 ];
 
 export default Cards;

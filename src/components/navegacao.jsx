@@ -21,6 +21,7 @@ import SuperGril from "../components/Persons/Supergril.jsx";
 import Hellboy from "./Persons/Hellboy.jsx";
 import Atrocitus from "../components/Persons/Atrocitus.jsx";
 import AdaoNegro from "../components/Persons/AdaoNegro.jsx";
+import Goku from "../components/Persons/Goku.jsx";
 
 
 
@@ -46,6 +47,7 @@ const Content = (props) => (
       <Route path="/hellboy" element={<Hellboy />} />
       <Route path="/atrocitus" element={<Atrocitus />} />
       <Route path="/adaoNegro" element={<AdaoNegro />} />
+      <Route path="/goku" element={<Goku />} />
     </Routes>
   </main>
 );

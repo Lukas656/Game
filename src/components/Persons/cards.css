@@ -1,0 +1,44 @@
+.section-person, p {
+    text-align: center;
+}
+.section-person h1{font-size: 50px;}
+.apresentation{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 1px;
+}
+.person-descricao{
+    width: 90%;
+    font-size: 1.1rem;
+    padding: 30px;
+}
+.img-person{
+    margin-top: 150px;
+    width: 350px;
+    border-radius: none;
+}
+
+.video-person, .video-background{
+    width: 500px;
+}
+
+ul{
+    text-align: left;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 750px) {
+    .apresentation{
+        width: 90%;       
+        display: block;
+    }
+    .person-descricao{
+        width: 45vh;
+        padding: 10px;
+    }
+    .video-person, .video-background{
+        width: 380px;
+    }
+
+    }

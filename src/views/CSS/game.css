@@ -1,0 +1,15 @@
+.game{
+   text-align: center;
+    
+}
+.cards{width: 100%; display: flex; justify-content: space-around; flex-wrap: wrap;}
+.card{text-align: center; margin: 15px;}
+
+
+.link-image:hover{
+    cursor: pointer;
+}
+
+.link-image img{
+    border-radius: 50%;
+}

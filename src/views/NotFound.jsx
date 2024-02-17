@@ -8,6 +8,7 @@ function NotFound(props) {
   return (
     <>
       <aside className="not-found">
+        <Header/>
         <h1>Ops.. Pagina não Encontrada...</h1>
         <Link to="/" class="menu-item">Voltar</Link>
       </aside>

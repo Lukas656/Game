@@ -12,8 +12,6 @@ function Header() {
         <Link to="/about" class="menu-item">About</Link>
         <Link to="/" class="menu-item">Exit</Link>
     </div>
-
-      
     </header>
   );
 }

@@ -3,13 +3,16 @@
     
 }
 .cards{width: 100%; display: flex; justify-content: space-around; flex-wrap: wrap;}
-.card{text-align: center; margin: 15px;}
+.card{text-align: center; margin: 15px; }
 
 
-.link-image:hover{
+.link-image img:hover{
     cursor: pointer;
+    border: 2px solid red;
 }
 
 .link-image img{
+    border: 2px solid white;
+    height: 150px;
     border-radius: 50%;
 }

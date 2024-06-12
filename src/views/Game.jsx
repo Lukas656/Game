@@ -14,7 +14,7 @@ function Game(props) {
               
             {card.url ? (
                 <Link to={card.href} className="link-image">
-                  <img src={card.url} alt={card.alt} width={'100px'}/>
+                  <img src={card.url} alt={card.alt} width={'150px'}/>
             </Link>
             ) : (
               <Link to={card.href} className="link-image">
